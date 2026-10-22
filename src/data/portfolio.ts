@@ -42,35 +42,35 @@ export const SHOWCASE_PROJECTS: ProjectShowcase[] = [
       { label: 'Applicant tracker', value: '50+ Applicants' },
       { label: 'Top client brands', value: 'Nvidia · Google · AMD' },
     ],
-    image: '/src/assets/images/chronicle_crm_dashboard.png',
+    image: '/assets/images/chronicle_crm_dashboard.png',
     imageAlt: 'Chronicle CRM Executive Workspace dashboard displaying hiring analytics, pipeline distribution, and candidate metrics',
     gallery: [
       {
         id: 'chronicle-dashboard',
         title: 'Executive Workspace & Hiring Analytics',
         caption: 'Central dashboard monitoring candidate numbers, interview pass rates, recruiter highlights, and client company accounts.',
-        image: '/src/assets/images/chronicle_crm_dashboard.png',
+        image: '/assets/images/chronicle_crm_dashboard.png',
         tag: 'Admin Workspace'
       },
       {
         id: 'chronicle-applicants',
         title: 'Recruitment Workspace & Candidate Pipeline',
         caption: 'Applicant tracking table filtering candidate typing speeds, test scores, and interviewer recommendations.',
-        image: '/src/assets/images/chronicle_crm_applicants.png',
+        image: '/assets/images/chronicle_crm_applicants.png',
         tag: 'Applicant Tracker'
       },
       {
         id: 'chronicle-landing',
         title: 'Talent Acquisition Public Portal',
         caption: 'Clean job applicant portal showing active job openings and easy resume submission.',
-        image: '/src/assets/images/chronicle_crm_landing.png',
+        image: '/assets/images/chronicle_crm_landing.png',
         tag: 'Public Portal'
       },
       {
         id: 'chronicle-careers',
         title: 'Opportunity Hub & Job Openings',
         caption: 'Job directory with quick filters for customer support, tech help, and operations roles.',
-        image: '/src/assets/images/chronicle_crm_careers.png',
+        image: '/assets/images/chronicle_crm_careers.png',
         tag: 'Careers Directory'
       }
     ],
@@ -97,35 +97,35 @@ export const SHOWCASE_PROJECTS: ProjectShowcase[] = [
       { label: 'Scan speed', value: '< 200ms RFID' },
       { label: 'Clinical records', value: 'Students & Staff' },
     ],
-    image: '/src/assets/images/medicampus_dashboard.png',
+    image: '/assets/images/medicampus_dashboard.png',
     imageAlt: 'MediCampus clinical management system dashboard featuring live patient census, sick bay bed occupancy, and medical inventory tracking',
     gallery: [
       {
         id: 'medicampus-dashboard',
         title: 'Clinical Command Dashboard',
         caption: 'Super Admin operations hub providing real-time triage status, sick bay bed occupancy, and automated clinic statistics.',
-        image: '/src/assets/images/medicampus_dashboard.png',
+        image: '/assets/images/medicampus_dashboard.png',
         tag: 'Admin Dashboard'
       },
       {
         id: 'medicampus-records',
         title: 'Patient Clinical Records',
         caption: 'Segmented patient directory for students, staff, and campus visitors with diagnosis histories and status tracking.',
-        image: '/src/assets/images/medicampus_records.png',
+        image: '/assets/images/medicampus_records.png',
         tag: 'Clinical Records'
       },
       {
         id: 'medicampus-inventory',
         title: 'Pharmacy & Equipment Inventory',
         caption: 'Asset catalog tracking medicines, diagnostic tools, and clinical consumables with Excel import/export and stock alerts.',
-        image: '/src/assets/images/medicampus_inventory.png',
+        image: '/assets/images/medicampus_inventory.png',
         tag: 'Clinic Inventory'
       },
       {
         id: 'medicampus-rfid',
         title: 'RFID Card Scanner Terminal',
         caption: 'Card scanner terminal recording clinic visits with automatic time-in and time-out logs.',
-        image: '/src/assets/images/medicampus_rfid.png',
+        image: '/assets/images/medicampus_rfid.png',
         tag: 'RFID Monitor'
       }
     ],
@@ -152,21 +152,21 @@ export const SHOWCASE_PROJECTS: ProjectShowcase[] = [
       { label: 'Sentiment accuracy', value: '96.8%' },
       { label: 'Student evaluations', value: '1,400+ analyzed' },
     ],
-    image: '/src/assets/images/project_teacher_eval_ai.jpg',
+    image: '/assets/images/project_teacher_eval_ai.jpg',
     imageAlt: 'TEVAL AI teacher evaluation and sentiment analytics dashboard showing faculty scorecards and AI insight summaries',
     gallery: [
       {
         id: 'ai-eval-overview',
         title: 'Faculty Scorecards & Sentiment Distribution',
         caption: 'Comprehensive faculty performance overview with NLP sentiment breakdown (positive, neutral, negative feedback).',
-        image: '/src/assets/images/project_teacher_eval_ai.jpg',
+        image: '/assets/images/project_teacher_eval_ai.jpg',
         tag: 'Sentiment AI'
       },
       {
         id: 'ai-eval-insights',
         title: 'AI Key Insights & Improvement Recommendations',
         caption: 'Automated summaries highlighting top teaching strengths and practical areas for classroom improvement.',
-        image: '/src/assets/images/service_ai_agent.jpg',
+        image: '/assets/images/service_ai_agent.jpg',
         tag: 'AI Insights'
       }
     ],
@@ -192,21 +192,21 @@ export const SHOWCASE_PROJECTS: ProjectShowcase[] = [
       { label: 'Win rate backtested', value: '68.5%' },
       { label: 'Chart indicators', value: 'EMA / RSI / BB' },
     ],
-    image: '/src/assets/images/project_trading_bot.jpg',
+    image: '/assets/images/project_trading_bot.jpg',
     imageAlt: 'Trading analysis bot dashboard showing candlestick charts, automated buy/sell signals, and profit tracking',
     gallery: [
       {
         id: 'trading-bot-chart',
         title: 'Live Candlestick Charts & Signal Markers',
         caption: 'Real-time market chart stream with automated buy/sell markers, moving average lines, and live trade order log.',
-        image: '/src/assets/images/project_trading_bot.jpg',
+        image: '/assets/images/project_trading_bot.jpg',
         tag: 'Live Charts'
       },
       {
         id: 'trading-bot-analytics',
         title: 'Win Rate Analytics & Position Overview',
         caption: 'Trading strategy performance tracking with automatic trailing stop-losses and risk limits.',
-        image: '/src/assets/images/project_trading_bot.jpg',
+        image: '/assets/images/project_trading_bot.jpg',
         tag: 'Strategy PnL'
       }
     ],
@@ -232,14 +232,14 @@ export const SHOWCASE_PROJECTS: ProjectShowcase[] = [
       { label: 'Page load speed', value: '< 0.9s' },
       { label: 'Lighthouse score', value: '98 / 100' },
     ],
-    image: '/src/assets/images/project_hyperion_studio.jpg',
+    image: '/assets/images/project_hyperion_studio.jpg',
     imageAlt: 'SL INN Hotel in a Garden reservation website showcase with room galleries and amenities',
     gallery: [
       {
         id: 'hotel-suites',
         title: 'Suites & Garden Showcase',
         caption: 'Interactive photo gallery showcasing hotel rooms, garden amenities, and direct availability inquiries.',
-        image: '/src/assets/images/project_hyperion_studio.jpg',
+        image: '/assets/images/project_hyperion_studio.jpg',
         tag: 'Hotel Showcase'
       }
     ],
@@ -265,14 +265,14 @@ export const SHOWCASE_PROJECTS: ProjectShowcase[] = [
       { label: 'Guest experience', value: 'Mobile-First' },
       { label: 'Search presence', value: 'SEO Optimized' },
     ],
-    image: '/src/assets/images/project_design_system_1792297938435.jpg',
+    image: '/assets/images/project_design_system_1792297938435.jpg',
     imageAlt: 'S&P Villa Management resort web platform showcasing luxury island villas',
     gallery: [
       {
         id: 'sp-villa-showcase',
         title: 'Island Villa Catalog & Booking Flow',
         caption: 'Property listing showcase optimized for international vacationers browsing from smartphones and laptops.',
-        image: '/src/assets/images/project_design_system_1792297938435.jpg',
+        image: '/assets/images/project_design_system_1792297938435.jpg',
         tag: 'Villa Resort'
       }
     ],
@@ -298,14 +298,14 @@ export const SHOWCASE_PROJECTS: ProjectShowcase[] = [
       { label: 'Development mode', value: 'Team Collab' },
       { label: 'Visitor UX', value: 'Complete Redesign' },
     ],
-    image: '/src/assets/images/project_fleet_logistics_1792297938129.jpg',
+    image: '/assets/images/project_fleet_logistics_1792297938129.jpg',
     imageAlt: 'Bukidnon camping resort website portal redesigned in Laravel',
     gallery: [
       {
         id: 'bukidnon-resort-ui',
         title: 'Resort Booking Portal & Activities Showcase',
         caption: 'Clean, modernized visitor interface highlighting camping accommodation, outdoor activities, and reservation forms.',
-        image: '/src/assets/images/project_fleet_logistics_1792297938129.jpg',
+        image: '/assets/images/project_fleet_logistics_1792297938129.jpg',
         tag: 'Laravel Redesign'
       }
     ],
@@ -331,14 +331,14 @@ export const SHOWCASE_PROJECTS: ProjectShowcase[] = [
       { label: 'Literature outline', value: 'Automated' },
       { label: 'Research time', value: '70% Saved' },
     ],
-    image: '/src/assets/images/project_thesis_paper_maker.jpg',
+    image: '/assets/images/project_thesis_paper_maker.jpg',
     imageAlt: 'AI thesis paper generator workspace showing generated chapter outline and live fetched scholarly citations',
     gallery: [
       {
         id: 'paper-maker-workspace',
         title: 'Academic Outline Generation & Citation Search',
         caption: 'Split workspace displaying thesis topic input, chapter outline breakdown, and live academic reference sources.',
-        image: '/src/assets/images/project_thesis_paper_maker.jpg',
+        image: '/assets/images/project_thesis_paper_maker.jpg',
         tag: 'Research AI'
       }
     ],
@@ -364,14 +364,14 @@ export const SHOWCASE_PROJECTS: ProjectShowcase[] = [
       { label: 'Inventory sync', value: 'Real-Time' },
       { label: 'Receipt format', value: 'Thermal 58/80mm' },
     ],
-    image: '/src/assets/images/project_fleet_mobile_app.jpg',
+    image: '/assets/images/project_fleet_mobile_app.jpg',
     imageAlt: 'Point of sale POS cashiering screen with product catalog and receipt checkout',
     gallery: [
       {
         id: 'pos-terminal',
         title: 'Cashier Checkout & Inventory Deduction',
         caption: 'Intuitive cashier terminal with quick-touch product tiles, barcode scanning, discount computation, and change calculator.',
-        image: '/src/assets/images/project_fleet_mobile_app.jpg',
+        image: '/assets/images/project_fleet_mobile_app.jpg',
         tag: 'POS Terminal'
       }
     ],
@@ -397,14 +397,14 @@ export const SHOWCASE_PROJECTS: ProjectShowcase[] = [
       { label: 'Record search', value: 'Instant' },
       { label: 'Data security', value: 'Local Encrypted' },
     ],
-    image: '/src/assets/images/project_clinical_records_1792297938185.jpg',
+    image: '/assets/images/project_clinical_records_1792297938185.jpg',
     imageAlt: 'Local clinical patient electronic medical record system showing patient history and consultations',
     gallery: [
       {
         id: 'local-clinic-emr',
         title: 'Patient Medical Profile & Consultation Logs',
         caption: 'Patient record management with consultation histories, past diagnoses, vital sign charting, and prescription printouts.',
-        image: '/src/assets/images/project_clinical_records_1792297938185.jpg',
+        image: '/assets/images/project_clinical_records_1792297938185.jpg',
         tag: 'Patient EMR'
       }
     ],
@@ -430,14 +430,14 @@ export const SHOWCASE_PROJECTS: ProjectShowcase[] = [
       { label: 'Time limit', value: '10 Mins' },
       { label: 'Benchmark', value: 'Professional' },
     ],
-    image: '/src/assets/images/itassessment_portal.png',
+    image: '/assets/images/itassessment_portal.png',
     imageAlt: 'IT Knowledge Assessment candidate portal showing 25 questions, professional standard, and 10 minute time limit',
     gallery: [
       {
         id: 'it-assessment-portal',
         title: 'Candidate Assessment Intake',
         caption: 'Clean technical quiz testing skills in cloud setups, system health, and basic networking with a 10-minute countdown for 25 questions.',
-        image: '/src/assets/images/itassessment_portal.png',
+        image: '/assets/images/itassessment_portal.png',
         tag: 'Candidate Intake'
       }
     ],
@@ -464,35 +464,35 @@ export const SHOWCASE_PROJECTS: ProjectShowcase[] = [
       { label: 'Minimum accuracy', value: '90% Accuracy' },
       { label: 'Attempts allowed', value: '3 Tries Max' },
     ],
-    image: '/src/assets/images/cptype_engine.png',
+    image: '/assets/images/cptype_engine.png',
     imageAlt: 'CP TYPE! candidate typing test showing real-time typing speed (WPM) and accuracy',
     gallery: [
       {
         id: 'cptype-engine',
         title: 'Live Typing Test Screen',
         caption: 'Real-time screen tracking typing speed (WPM), accuracy percentage, 60-second timer, and number of tries.',
-        image: '/src/assets/images/cptype_engine.png',
+        image: '/assets/images/cptype_engine.png',
         tag: 'Live Test'
       },
       {
         id: 'cptype-protocol',
         title: 'Test Rules & Passing Requirements',
         caption: 'Test rules requiring 60-second duration, at least 90% accuracy, 40 WPM speed, and up to 3 tries.',
-        image: '/src/assets/images/cptype_protocol.png',
+        image: '/assets/images/cptype_protocol.png',
         tag: 'Test Rules'
       },
       {
         id: 'cptype-dark-auth',
         title: 'Talent Verification (Dark Mode)',
         caption: 'Applicant sign-in screen with name and email entry, designed with a glowing dark cyberpunk look.',
-        image: '/src/assets/images/cptype_dark_auth.png',
+        image: '/assets/images/cptype_dark_auth.png',
         tag: 'Dark Auth'
       },
       {
         id: 'cptype-light-auth',
         title: 'Talent Verification (Light Mode)',
         caption: 'High-contrast light theme with one-click theme switching and admin sign-in.',
-        image: '/src/assets/images/cptype_light_auth.png',
+        image: '/assets/images/cptype_light_auth.png',
         tag: 'Light Auth'
       }
     ],
@@ -562,7 +562,7 @@ export const JOB_EXPERIENCES: JobExperience[] = [
     sector: 'Remote / Worldwide',
     clearance: 'FREELANCE LEAD',
     questRank: 'INDEPENDENT DEVELOPER',
-    previewImage: '/src/assets/images/project_hyperion_studio.jpg',
+    previewImage: '/assets/images/project_hyperion_studio.jpg',
     previewImageAlt: 'Freelance bespoke web applications and custom client solutions showcase',
     role: 'Freelance Full-Stack Developer',
     company: 'Independent Freelance Practice',
@@ -608,7 +608,7 @@ export const JOB_EXPERIENCES: JobExperience[] = [
     sector: 'Cebu, Philippines',
     clearance: 'FULL STACK ENGINEER',
     questRank: 'CONTRACT ENGINEER',
-    previewImage: '/src/assets/images/project_edge_telemetry_1792297937782.jpg',
+    previewImage: '/assets/images/project_edge_telemetry_1792297937782.jpg',
     previewImageAlt: 'ContactPoint 360 full stack engineering workflows and containerized tooling',
     role: 'Full Stack Engineer',
     company: 'ContactPoint 360',
@@ -653,7 +653,7 @@ export const JOB_EXPERIENCES: JobExperience[] = [
     sector: 'Koi Samui, Thailand',
     clearance: 'WEB DEVELOPER',
     questRank: 'INTERN DEVELOPER',
-    previewImage: '/src/assets/images/project_design_system_1792297938435.jpg',
+    previewImage: '/assets/images/project_design_system_1792297938435.jpg',
     previewImageAlt: 'S&P Villa Management responsive website and marketing showcase',
     role: 'Web Developer',
     company: 'S&P Villa Management',
@@ -698,7 +698,7 @@ export const JOB_EXPERIENCES: JobExperience[] = [
     sector: 'Bukidnon, Philippines',
     clearance: 'WEB DEVELOPER',
     questRank: 'INTERN DEVELOPER',
-    previewImage: '/src/assets/images/project_fleet_logistics_1792297938129.jpg',
+    previewImage: '/assets/images/project_fleet_logistics_1792297938129.jpg',
     previewImageAlt: 'Advanced Infinit Solutions resort web development and Laravel redesign',
     role: 'Web Developer',
     company: 'Advanced Infinit Solutions',
@@ -826,27 +826,27 @@ export const ONGOING_PROJECTS: OngoingProject[] = [
     techStack: ['React 19', 'TypeScript', 'Node.js', 'PostgreSQL', 'Tailwind CSS', 'Fast APIs'],
     zone: 'blue',
     statusBadge: '2-in-1 Suite · Active Development',
-    heroImage: '/src/assets/images/project_san_isidro_website.jpg',
+    heroImage: '/assets/images/project_san_isidro_website.jpg',
     demoImages: [
       {
         id: 'si-district-website',
         title: 'San Isidro Water District Official Website',
         caption: 'Public-facing official website featuring 24/7 online bill inquiry, new water service application, rate advisories, and community announcements.',
-        image: '/src/assets/images/project_san_isidro_website.jpg',
+        image: '/assets/images/project_san_isidro_website.jpg',
         tag: '1. Official Website'
       },
       {
         id: 'si-billing-overview',
         title: 'Consumer Records & Billing Management',
         caption: 'Central administrative dashboard managing active consumer profiles, meter consumption bar charts, and real-time revenue collection metrics.',
-        image: '/src/assets/images/project_san_isidro_billing.jpg',
+        image: '/assets/images/project_san_isidro_billing.jpg',
         tag: '2. Billing System'
       },
       {
         id: 'si-tariff-calculator',
         title: 'Tiered Tariff Engine & Customer Ledger',
         caption: 'Automated residential and commercial tiered water rate computation with overdue invoice tracking and payment receipts.',
-        image: '/src/assets/images/project_san_isidro_billing.jpg',
+        image: '/assets/images/project_san_isidro_billing.jpg',
         tag: 'Tariff & Ledger'
       }
     ],
@@ -919,34 +919,34 @@ export const ONGOING_PROJECTS: OngoingProject[] = [
     techStack: ['React 19', 'Next.js', 'TypeScript', 'Node.js', 'Tailwind CSS', 'QR Code Protocol', 'Vercel'],
     zone: 'yellow',
     statusBadge: 'Live Webapp · School Portal',
-    heroImage: '/src/assets/images/st_francis_hero.png',
+    heroImage: '/assets/images/st_francis_hero.png',
     demoImages: [
       {
         id: 'sfc-hero-view',
         title: 'Franciscan Education in Motion',
         caption: 'School landing experience showcasing St. Francis College heritage, academic life, campus announcements, and direct admissions portals.',
-        image: '/src/assets/images/st_francis_hero.png',
+        image: '/assets/images/st_francis_hero.png',
         tag: 'College Portal'
       },
       {
         id: 'sfc-heritage-novena',
         title: 'Franciscan Heritage & Novena Reflections',
         caption: 'Spiritual life portal featuring the Novena to St. Francis of Assisi, Padre Pio reflections, daily healing prayers, and community devotionals.',
-        image: '/src/assets/images/st_francis_heritage.png',
+        image: '/assets/images/st_francis_heritage.png',
         tag: 'Heritage & Novena'
       },
       {
         id: 'sfc-legacy-history',
         title: 'Legacy & History of St. Francis College',
         caption: 'Historic school archive documenting the founding in Allen, Northern Samar (1948), Franciscan identity in education, and campus chapel traditions.',
-        image: '/src/assets/images/st_francis_history.png',
+        image: '/assets/images/st_francis_history.png',
         tag: 'Historic Archive'
       },
       {
         id: 'sfc-campus-life',
         title: 'A Glimpse of the Life of SPCians',
         caption: 'Vibrant campus life photo gallery highlighting student cultural events, Buwan ng Wika, athletics, academic milestones, and student community traditions.',
-        image: '/src/assets/images/st_francis_campus_life.png',
+        image: '/assets/images/st_francis_campus_life.png',
         tag: 'Campus Life'
       }
     ],
@@ -1010,20 +1010,20 @@ export const ONGOING_PROJECTS: OngoingProject[] = [
     techStack: ['Python', 'TypeScript', 'Node.js', 'WebSockets', 'REST APIs', 'Docker'],
     zone: 'red',
     statusBadge: 'Paper Trading Active',
-    heroImage: '/src/assets/images/project_trading_bot.jpg',
+    heroImage: '/assets/images/project_trading_bot.jpg',
     demoImages: [
       {
         id: 'tb-dashboard-view',
         title: 'Live Trades & Profit Tracking',
         caption: 'Real-time candlestick chart with automated BUY/SELL signal markers, real-time PnL graph, and live order execution log.',
-        image: '/src/assets/images/project_trading_bot.jpg',
+        image: '/assets/images/project_trading_bot.jpg',
         tag: 'Live Trades'
       },
       {
         id: 'tb-analytics-view',
         title: 'Win Rate Analytics & Position Overview',
         caption: 'Strategy performance metrics showing 68.5% win rate, active long/short positions, balance history, and automated trailing stops.',
-        image: '/src/assets/images/project_trading_bot.jpg',
+        image: '/assets/images/project_trading_bot.jpg',
         tag: 'Risk Analytics'
       }
     ],
@@ -1095,34 +1095,34 @@ export const ONGOING_PROJECTS: OngoingProject[] = [
     techStack: ['React 19', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion', 'Vercel'],
     zone: 'white',
     statusBadge: 'Live Build · Mountain Retreat',
-    heroImage: '/src/assets/images/lagranja_hero.jpg',
+    heroImage: '/assets/images/lagranja_hero.jpg',
     demoImages: [
       {
         id: 'lg-summit-hero',
         title: 'Summit Ascent & Wilderness Overlook',
         caption: 'Clean hero section showcasing the 300-step stone trail into nature with waterfall overlook and cozy mountain cabins.',
-        image: '/src/assets/images/lagranja_hero.jpg',
+        image: '/assets/images/lagranja_hero.jpg',
         tag: 'Summit Ascent'
       },
       {
         id: 'lg-cabin-architecture',
         title: 'Thatched A-Frame Cabin Quarters',
         caption: 'High-ridge mountain cabins built above cascading waterfalls, featuring private stone terraces and soothing natural stream sounds.',
-        image: '/src/assets/images/lagranja_cabin_overlook.png',
+        image: '/assets/images/lagranja_cabin_overlook.png',
         tag: 'Living Quarters'
       },
       {
         id: 'lg-starlight-bonfire',
         title: 'Summit Starlight & Bonfire Hearth',
         caption: 'Nighttime atmosphere with clear starry skies, warm wood bonfires, and crisp mountain breeze overlooking the river gorge below.',
-        image: '/src/assets/images/lagranja_bonfire.png',
+        image: '/assets/images/lagranja_bonfire.png',
         tag: 'Bonfire Hearth'
       },
       {
         id: 'lg-wilderness-philosophy',
         title: 'Mountain Trail & Forest Grounds',
         caption: 'Shows the peaceful 300-step stone trail, refreshing mountain breeze, and quiet forest with no city noise.',
-        image: '/src/assets/images/lagranja_sanctuary.png',
+        image: '/assets/images/lagranja_sanctuary.png',
         tag: 'The Grounds'
       }
     ],
